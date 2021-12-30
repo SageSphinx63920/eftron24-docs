@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://discord.com/invite/j8emH5ap3k
+    about: The Discord of Eftron 24/7.
+  - name: Website
+    url: https://bots.sagesphinx63920.dev/eftron24
+    about: My website :)
+  - name: Wiki
+    url: https://github.com/SageSphinx63920/eftron24-docs/wiki
+    about: You can find answers to common questions on our Wiki.
